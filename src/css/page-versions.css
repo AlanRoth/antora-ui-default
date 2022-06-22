@@ -52,7 +52,7 @@
 }
 
 .page-versions .version.is-missing {
-  /*color: var(--page-version-missing-font-color);*/
+  /* color: var(--page-version-missing-font-color); */
   font-style: italic;
   text-decoration: none;
 }
