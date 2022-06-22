@@ -1,2 +1,6 @@
 {{> footer-content}}
 {{> footer-scripts}}
+{{#if env.SITE_SEARCH_PROVIDER}}
+{{> search-scripts}}
+{{/if}}
+
